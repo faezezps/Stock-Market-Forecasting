@@ -1,2 +1,2 @@
-# Stock-Market-Prediction
-Utilizing deep models in order to predict the stock market
+# Stock-Market-Forecasting
+Utilizing deep models in stock market forecasting
